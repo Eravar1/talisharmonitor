@@ -1,0 +1,33 @@
+[2025-06-26 13:49:17] ♻️ Rotated to new log file: talishar_matches_2025-06-26.log
+[2025-06-26 13:49:17] 
+==================================================
+[2025-06-26 13:49:17] 🔍 Starting Talishar Monitor (Tracking: Eravar, Verso)
+[2025-06-26 13:49:17] 🔄 Checking every 3 minutes
+[2025-06-26 13:49:17] 💾 Cache duration: 1 hour(s)
+[2025-06-26 13:49:17] ==================================================
+
+[2025-06-26 13:49:17] 🚀 Performing initial scan...
+[2025-06-26 13:50:04] 
+⏳ Next scan at 2025-06-26 13:53:04
+[2025-06-26 13:53:06] 
+🔄 Scanning for new games...
+[2025-06-26 13:53:17] 
+⏳ Next scan at 2025-06-26 13:56:17
+[2025-06-26 13:57:00] 
+🔄 Scanning for new games...
+[2025-06-26 13:57:14] 
+⏳ Next scan at 2025-06-26 14:00:14
+[2025-06-26 14:00:16] 
+🔄 Scanning for new games...
+[2025-06-26 14:00:26] 
+⏳ Next scan at 2025-06-26 14:03:26
+[2025-06-26 14:03:28] 
+🔄 Scanning for new games...
+[2025-06-26 14:03:42] 
+⏳ Next scan at 2025-06-26 14:06:42
+[2025-06-26 14:06:44] 
+🔄 Scanning for new games...
+[2025-06-26 14:06:55] 
+⏳ Next scan at 2025-06-26 14:09:55
+[2025-06-26 14:08:09] 🛑 Received shutdown signal, exiting gracefully...
+[2025-06-26 14:08:10] 🛑 Monitoring stopped
