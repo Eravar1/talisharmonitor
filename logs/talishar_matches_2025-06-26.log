@@ -31,3 +31,67 @@
 ⏳ Next scan at 2025-06-26 14:09:55
 [2025-06-26 14:08:09] 🛑 Received shutdown signal, exiting gracefully...
 [2025-06-26 14:08:10] 🛑 Monitoring stopped
+[2025-06-26 16:25:17] ♻️ Rotated to new log file: talishar_matches_2025-06-26.log
+[2025-06-26 16:25:17] 
+==================================================
+[2025-06-26 16:25:17] 🔍 Starting Talishar Monitor (Tracking: Eravar, Verso)
+[2025-06-26 16:25:17] 🔄 Checking every 3 minutes
+[2025-06-26 16:25:17] 💾 Cache duration: 1 hour(s)
+[2025-06-26 16:25:17] ==================================================
+
+[2025-06-26 16:25:17] ↩️ Loaded previous state with 108 cached games
+[2025-06-26 16:25:17] 🚀 Performing initial scan...
+[2025-06-26 16:26:04] 
+⏳ Next scan at 2025-06-26 16:29:04
+[2025-06-26 16:29:06] 
+🔄 Scanning for new games...
+[2025-06-26 16:29:15] 
+⏳ Next scan at 2025-06-26 16:32:15
+[2025-06-26 16:32:17] 
+🔄 Scanning for new games...
+[2025-06-26 16:32:25] 
+⏳ Next scan at 2025-06-26 16:35:25
+[2025-06-26 16:35:27] 
+🔄 Scanning for new games...
+[2025-06-26 16:35:38] 
+⏳ Next scan at 2025-06-26 16:38:38
+[2025-06-26 16:38:40] 
+🔄 Scanning for new games...
+[2025-06-26 16:38:46] 
+⏳ Next scan at 2025-06-26 16:41:46
+[2025-06-26 16:39:06] 🛑 Received shutdown signal, exiting gracefully...
+[2025-06-26 16:39:07] 🛑 Monitoring stopped
+[2025-06-26 16:39:08] ♻️ Rotated to new log file: talishar_matches_2025-06-26.log
+[2025-06-26 16:39:08] 
+==================================================
+[2025-06-26 16:39:08] 🔍 Starting Talishar Monitor (Tracking: chuubs, Chuubs, eng heng chu, Eng Heng Chu, EngHengChu, KuKahKeng)
+[2025-06-26 16:39:08] 🔄 Checking every 3 minutes
+[2025-06-26 16:39:08] 💾 Cache duration: 1 hour(s)
+[2025-06-26 16:39:08] ==================================================
+
+[2025-06-26 16:39:08] ↩️ Loaded previous state with 93 cached games
+[2025-06-26 16:39:08] 🚀 Performing initial scan...
+[2025-06-26 16:39:10] 
+⏳ Next scan at 2025-06-26 16:42:10
+[2025-06-26 16:42:11] 
+🔄 Scanning for new games...
+[2025-06-26 16:42:21] 
+⏳ Next scan at 2025-06-26 16:45:21
+[2025-06-26 16:45:23] 
+🔄 Scanning for new games...
+[2025-06-26 16:45:32] 
+⏳ Next scan at 2025-06-26 16:48:32
+[2025-06-26 16:47:16] 🛑 Received shutdown signal, exiting gracefully...
+[2025-06-26 16:47:17] 🛑 Monitoring stopped
+[2025-06-26 16:47:17] ♻️ Rotated to new log file: talishar_matches_2025-06-26.log
+[2025-06-26 16:47:17] 
+==================================================
+[2025-06-26 16:47:17] 🔍 Starting Talishar Monitor (Tracking: chuubs, Chuubs, eng heng chu, Eng Heng Chu, EngHengChu, KuKahKeng)
+[2025-06-26 16:47:17] 🔄 Checking every 10 minutes
+[2025-06-26 16:47:17] 💾 Cache duration: 1 hour(s)
+[2025-06-26 16:47:17] ==================================================
+
+[2025-06-26 16:47:17] ↩️ Loaded previous state with 113 cached games
+[2025-06-26 16:47:17] 🚀 Performing initial scan...
+[2025-06-26 16:47:25] 
+⏳ Next scan at 2025-06-26 16:57:25

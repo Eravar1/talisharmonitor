@@ -10,8 +10,8 @@ from monitor_utils.state_manager import load_state, save_state
 from monitor_utils.deck_parser import format_deck_info
 
 # Configuration
-WATCHED_PLAYERS = ["Eravar", "Verso"]
-POLL_INTERVAL = 180  # 3 minutes in seconds
+WATCHED_PLAYERS = ["chuubs", "Chuubs", "eng heng chu", "Eng Heng Chu", "EngHengChu", "KuKahKeng"]
+POLL_INTERVAL = 600  # 3 minutes in seconds
 GAME_CACHE_DURATION = 3600  # 1 hour in seconds
 
 class TalisharMonitor:
