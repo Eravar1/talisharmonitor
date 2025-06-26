@@ -1,0 +1,10 @@
+# Core dependencies
+requests==2.31.0
+python-dotenv==1.0.0
+
+# Logging and compression
+python-dateutil==2.8.2
+
+# (Optional) For enhanced functionality:
+# discord-webhook==0.15.0  # For Discord notifications
+# schedule==1.2.0         # For more sophisticated scheduling
